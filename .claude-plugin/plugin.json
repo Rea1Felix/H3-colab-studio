@@ -1,0 +1,20 @@
+{
+  "name": "h3-colab-studio",
+  "version": "1.0.0",
+  "description": "Build and operate a prompt-to-video workspace for MiniMax H3 with an agent execution bridge to Google Colab G4 running ComfyUI, official H3 multi-shot prompting, and ffmpeg clip stitching.",
+  "author": {
+    "name": "Rea1Felix",
+    "url": "https://github.com/Rea1Felix"
+  },
+  "repository": "https://github.com/Rea1Felix/H3-colab-studio",
+  "license": "MIT",
+  "keywords": [
+    "minimax-h3",
+    "comfyui",
+    "google-colab",
+    "text-to-video",
+    "video-generation",
+    "prompt-engineering",
+    "agent-skills"
+  ]
+}

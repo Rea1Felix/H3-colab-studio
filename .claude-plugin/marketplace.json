@@ -1,0 +1,15 @@
+{
+  "name": "h3-colab-studio",
+  "owner": {
+    "name": "Rea1Felix",
+    "url": "https://github.com/Rea1Felix"
+  },
+  "plugins": [
+    {
+      "name": "h3-colab-studio",
+      "source": "./",
+      "description": "MiniMax H3 prompt-to-video workspace app blueprint, multi-shot prompt optimizer, and Google Colab G4 (ComfyUI) execution bridge.",
+      "version": "1.0.0"
+    }
+  ]
+}

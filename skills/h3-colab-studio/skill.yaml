@@ -1,0 +1,5 @@
+name: "h3_colab_studio"
+title: "H3 Colab Studio — Prompt-to-Video Workspace with an Agent Bridge"
+description: "Build a prompt-to-video workspace for MiniMax H3: an app that optimizes ideas into H3 structured prompts and queues jobs, while the agent bridges execution to Google Colab G4 running ComfyUI, stitches multi-shot results, and backfills the finished video."
+category: "Media and creativity"
+include_in_prompt: false

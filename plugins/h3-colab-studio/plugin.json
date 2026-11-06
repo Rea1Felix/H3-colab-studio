@@ -1,0 +1,12 @@
+{
+  "name": "h3-colab-studio",
+  "displayName": "H3 Colab Studio",
+  "version": "1.0.0",
+  "description": "Prompt-to-Video Workspace & Google Colab G4 (ComfyUI) Agent Bridge for MiniMax H3: build a persistent job-queue control app, write official structured multi-shot H3 prompts, run verified Colab G4 ComfyUI workflows, stitch clips with ffmpeg, and track compute-unit usage.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Build the H3 Colab Studio prompt-to-video workspace app following the blueprint",
+    "Optimize this story idea into a 3-shot MiniMax H3 structured prompt with shared seed and camera labels",
+    "Run queued H3 job #1 on Google Colab G4 via ComfyUI, stitch the MP4 shots, and backfill the result"
+  ]
+}
